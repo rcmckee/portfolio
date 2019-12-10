@@ -19,10 +19,19 @@
 ---
 -->
 
-### Generating Text Summaries (GloVe Word Embeddings vs. Gensim vs. NLTK)
+### Generating Text Summaries
+#### GloVe Word Embeddings vs. Gensim vs. NLTK
 
 [The apparatus of  claim  wherein the interpolation unit performs an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied
 The method of  claim  further comprising: performing an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied](https://colab.research.google.com/drive/1WG2itMOl97yZULr6PzDGe_irq55Q0QHE)
+
+---
+
+### Topic Modeling Of Walmart Patents
+#### Visualization with pyLDAvis
+
+[<img src="images/topic_modeling_visualized.png?raw=true/>](https://colab.research.google.com/github/rcmckee/Topic-Modeling-Gensim-LDA-pyLDAvis/blob/master/walmart_research_checkpoint.ipynb)
+
 
 <!--
 - [Project 1 Title](http://example.com/)
@@ -31,13 +40,11 @@ The method of  claim  further comprising: performing an interpolation by applyin
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 -->
-<!--
----
--->
 
 
 
----
+
+
 <!--
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 -->
