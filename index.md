@@ -39,6 +39,12 @@ The method of  claim  further comprising: performing an interpolation by applyin
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+---
+
+### Technology and Market Evaluation
+#### Quicklook Method
+
+[<img src="images/porters_5_forces.png?raw=true"/>](/pdf/quicklook_report.pdf)
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
