@@ -18,9 +18,11 @@
 <!--
 ---
 -->
-<!--
-### Category Name 2
--->
+
+### Generating Text Summaries (GloVe Word Embeddings vs. Gensim vs. NLTK)
+
+[The apparatus of  claim  wherein the interpolation unit performs an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied
+The method of  claim  further comprising: performing an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied](https://colab.research.google.com/drive/1WG2itMOl97yZULr6PzDGe_irq55Q0QHE)
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -33,7 +35,9 @@
 -->
 
 
-<!--
+
 ---
+<!--
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+-->
 <!-- Remove above link if you don't want to attibute -->
