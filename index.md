@@ -32,6 +32,12 @@ The method of  claim  further comprising: performing an interpolation by applyin
 
 [<img src="images/topic_modeling_visualized.png?raw=true"/>](https://colab.research.google.com/github/rcmckee/Topic-Modeling-Gensim-LDA-pyLDAvis/blob/master/walmart_research_checkpoint.ipynb)
 
+---
+
+### Dashboard for Analysis of Google Inventors
+#### BigQuery and Data Studio
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <!--
 - [Project 1 Title](http://example.com/)
