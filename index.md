@@ -44,7 +44,7 @@ The method of  claim  further comprising: performing an interpolation by applyin
 ### Technology and Market Evaluation
 #### Quicklook Method
 
-[<img src="images/porters_5_forces.png?raw=true"/>](/pdf/quicklook_report.pdf)
+[<img width="400" src="images/porters_5_forces.png?raw=true"/>](/pdf/quicklook_report.pdf)
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
