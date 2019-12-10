@@ -30,7 +30,7 @@ The method of  claim  further comprising: performing an interpolation by applyin
 ### Topic Modeling Of Walmart Patents
 #### Visualization with pyLDAvis
 
-[<img src="images/topic_modeling_visualized.png?raw=true/>](https://colab.research.google.com/github/rcmckee/Topic-Modeling-Gensim-LDA-pyLDAvis/blob/master/walmart_research_checkpoint.ipynb)
+[<img src="images/topic_modeling_visualized.png?raw=true"/>](https://colab.research.google.com/github/rcmckee/Topic-Modeling-Gensim-LDA-pyLDAvis/blob/master/walmart_research_checkpoint.ipynb)
 
 
 <!--
