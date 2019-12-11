@@ -25,7 +25,7 @@ The method of  claim  further comprising: performing an interpolation by applyin
 ## Dashboard for Analysis of Google Inventors
 #### BigQuery and Data Studio
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 
