@@ -1,4 +1,4 @@
-# My Portfolio
+# Projects and Discoveries
 ---
 ## Statistical Analysis / Hypothesis Testing of Binary Data 
 
