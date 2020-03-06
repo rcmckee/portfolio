@@ -1,5 +1,9 @@
 # My Portfolio
 ---
+## Statistical Analysis / Hypothesis Testing of Binary Data 
+
+[<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
+---
 ## TensorFlow Document Classification 
 
 [<img width="400" src="https://camo.githubusercontent.com/6fcdfccf42e020d1557ca8907b610375236b6e2b/687474703a2f2f7777772e69707761746368646f672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f31322f4669677572652d312e6a7067"/>](https://colab.research.google.com/drive/1DjOyXyjUF_6kCuTWkow8EMvSiNtD5BIH)
