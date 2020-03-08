@@ -1,0 +1,105 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #222222;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "white"}, "id": "general electric company", "label": "general electric company", "shape": "dot", "title": "general electric company"}, {"font": {"color": "white"}, "id": "general electric", "label": "general electric", "shape": "dot", "title": "general electric"}, {"font": {"color": "white"}, "id": "ge aviation systems limited", "label": "ge aviation systems limited", "shape": "dot", "title": "ge aviation systems limited"}, {"font": {"color": "white"}, "id": "meagher emanuel laks goldberg liao llp", "label": "meagher emanuel laks goldberg liao llp", "shape": "dot", "title": "meagher emanuel laks goldberg liao llp"}, {"font": {"color": "white"}, "id": "the small patent law group llc", "label": "the small patent law group llc", "shape": "dot", "title": "the small patent law group llc"}, {"font": {"color": "white"}, "id": "ge power water", "label": "ge power water", "shape": "dot", "title": "ge power water"}, {"font": {"color": "white"}, "id": "general electric company global research", "label": "general electric company global research", "shape": "dot", "title": "general electric company global research"}, {"font": {"color": "white"}, "id": "ge global patent operation", "label": "ge global patent operation", "shape": "dot", "title": "ge global patent operation"}, {"font": {"color": "white"}, "id": "mcnees wallace nurick llc", "label": "mcnees wallace nurick llc", "shape": "dot", "title": "mcnees wallace nurick llc"}, {"font": {"color": "white"}, "id": "nixon vanderhye pc", "label": "nixon vanderhye pc", "shape": "dot", "title": "nixon vanderhye pc"}, {"font": {"color": "white"}, "id": "ge healthcare ip department", "label": "ge healthcare ip department", "shape": "dot", "title": "ge healthcare ip department"}, {"font": {"color": "white"}, "id": "charter communications operating llc", "label": "charter communications operating llc", "shape": "dot", "title": "charter communications operating llc"}, {"font": {"color": "white"}, "id": "eversheds sutherland", "label": "eversheds sutherland", "shape": "dot", "title": "eversheds sutherland"}, {"font": {"color": "white"}, "id": "gpcp ip holdings llc", "label": "gpcp ip holdings llc", "shape": "dot", "title": "gpcp ip holdings llc"}, {"font": {"color": "white"}, "id": "cox communications inc", "label": "cox communications inc", "shape": "dot", "title": "cox communications inc"}, {"font": {"color": "white"}, "id": "dale pollak", "label": "dale pollak", "shape": "dot", "title": "dale pollak"}, {"font": {"color": "white"}, "id": "bjorn skaare", "label": "bjorn skaare", "shape": "dot", "title": "bjorn skaare"}, {"font": {"color": "white"}, "id": "dority manning pa", "label": "dority manning pa", "shape": "dot", "title": "dority manning pa"}, {"font": {"color": "white"}, "id": "rheopave technologies llc", "label": "rheopave technologies llc", "shape": "dot", "title": "rheopave technologies llc"}, {"font": {"color": "white"}, "id": "afl telecommunications llc", "label": "afl telecommunications llc", "shape": "dot", "title": "afl telecommunications llc"}, {"font": {"color": "white"}, "id": "university of south carolina", "label": "university of south carolina", "shape": "dot", "title": "university of south carolina"}, {"font": {"color": "white"}, "id": "soma access systems llc", "label": "soma access systems llc", "shape": "dot", "title": "soma access systems llc"}, {"font": {"color": "white"}, "id": "ticona llc", "label": "ticona llc", "shape": "dot", "title": "ticona llc"}, {"font": {"color": "white"}, "id": "google", "label": "google", "shape": "dot", "title": "google"}, {"font": {"color": "white"}, "id": "avx corporation", "label": "avx corporation", "shape": "dot", "title": "avx corporation"}, {"font": {"color": "white"}, "id": "hanley flight zimmerman llc", "label": "hanley flight zimmerman llc", "shape": "dot", "title": "hanley flight zimmerman llc"}, {"font": {"color": "white"}, "id": "the nielsen company us llc", "label": "the nielsen company us llc", "shape": "dot", "title": "the nielsen company us llc"}, {"font": {"color": "white"}, "id": "fisher controls international llc", "label": "fisher controls international llc", "shape": "dot", "title": "fisher controls international llc"}, {"font": {"color": "white"}, "id": "hoffman warnick llc", "label": "hoffman warnick llc", "shape": "dot", "title": "hoffman warnick llc"}, {"font": {"color": "white"}, "id": "momentive performance materials inc", "label": "momentive performance materials inc", "shape": "dot", "title": "momentive performance materials inc"}, {"font": {"color": "white"}, "id": "the boeing company", "label": "the boeing company", "shape": "dot", "title": "the boeing company"}, {"font": {"color": "white"}, "id": "loreal", "label": "loreal", "shape": "dot", "title": "loreal"}, {"font": {"color": "white"}, "id": "ge patent docket department 17851", "label": "ge patent docket department 17851", "shape": "dot", "title": "ge patent docket department 17851"}, {"font": {"color": "white"}, "id": "knowmadics inc", "label": "knowmadics inc", "shape": "dot", "title": "knowmadics inc"}, {"font": {"color": "white"}, "id": "resmed r d germany gmbh", "label": "resmed r d germany gmbh", "shape": "dot", "title": "resmed r d germany gmbh"}, {"font": {"color": "white"}, "id": "denso corporation", "label": "denso corporation", "shape": "dot", "title": "denso corporation"}, {"font": {"color": "white"}, "id": "arm ip limited", "label": "arm ip limited", "shape": "dot", "title": "arm ip limited"}, {"font": {"color": "white"}, "id": "nintendo co ltd", "label": "nintendo co ltd", "shape": "dot", "title": "nintendo co ltd"}, {"font": {"color": "white"}, "id": "paradigm inc", "label": "paradigm inc", "shape": "dot", "title": "paradigm inc"}, {"font": {"color": "white"}, "id": "j\u00f8rgen hallundb\u00e6k", "label": "j\u00f8rgen hallundb\u00e6k", "shape": "dot", "title": "j\u00f8rgen hallundb\u00e6k"}, {"font": {"color": "white"}, "id": "british telecommunications public limited company", "label": "british telecommunications public limited company", "shape": "dot", "title": "british telecommunications public limited company"}, {"font": {"color": "white"}, "id": "crh medical corporation", "label": "crh medical corporation", "shape": "dot", "title": "crh medical corporation"}, {"font": {"color": "white"}, "id": "software ag", "label": "software ag", "shape": "dot", "title": "software ag"}, {"font": {"color": "white"}, "id": "resmed limited", "label": "resmed limited", "shape": "dot", "title": "resmed limited"}, {"font": {"color": "white"}, "id": "dsm ip assets bv", "label": "dsm ip assets bv", "shape": "dot", "title": "dsm ip assets bv"}, {"font": {"color": "white"}, "id": "georg steiger", "label": "georg steiger", "shape": "dot", "title": "georg steiger"}, {"font": {"color": "white"}, "id": "nasdag technology ab", "label": "nasdag technology ab", "shape": "dot", "title": "nasdag technology ab"}, {"font": {"color": "white"}, "id": "complete consent llc", "label": "complete consent llc", "shape": "dot", "title": "complete consent llc"}, {"font": {"color": "white"}, "id": "gordon sterling starling", "label": "gordon sterling starling", "shape": "dot", "title": "gordon sterling starling"}, {"font": {"color": "white"}, "id": "arm limited", "label": "arm limited", "shape": "dot", "title": "arm limited"}, {"font": {"color": "white"}, "id": "jorn nystad", "label": "jorn nystad", "shape": "dot", "title": "jorn nystad"}, {"font": {"color": "white"}, "id": "masao yui", "label": "masao yui", "shape": "dot", "title": "masao yui"}, {"font": {"color": "white"}, "id": "takayuki ueno", "label": "takayuki ueno", "shape": "dot", "title": "takayuki ueno"}, {"font": {"color": "white"}, "id": "james m cullen", "label": "james m cullen", "shape": "dot", "title": "james m cullen"}, {"font": {"color": "white"}, "id": "yasushi matsubara", "label": "yasushi matsubara", "shape": "dot", "title": "yasushi matsubara"}, {"font": {"color": "white"}, "id": "hiroshi matsunaga", "label": "hiroshi matsunaga", "shape": "dot", "title": "hiroshi matsunaga"}]);
+        edges = new vis.DataSet([{"from": "general electric company", "to": "general electric"}, {"from": "general electric company", "to": "general electric company"}, {"from": "general electric company", "to": "ge aviation systems limited"}, {"from": "general electric company", "to": "meagher emanuel laks goldberg liao llp"}, {"from": "general electric company", "to": "the small patent law group llc"}, {"from": "general electric company", "to": "ge power water"}, {"from": "general electric company", "to": "general electric company global research"}, {"from": "general electric company", "to": "ge global patent operation"}, {"from": "general electric company", "to": "mcnees wallace nurick llc"}, {"from": "general electric company", "to": "nixon vanderhye pc"}, {"from": "general electric company", "to": "ge healthcare ip department"}, {"from": "meagher emanuel laks goldberg liao llp", "to": "general electric"}, {"from": "meagher emanuel laks goldberg liao llp", "to": "charter communications operating llc"}, {"from": "eversheds sutherland", "to": "general electric"}, {"from": "eversheds sutherland", "to": "gpcp ip holdings llc"}, {"from": "eversheds sutherland", "to": "cox communications inc"}, {"from": "eversheds sutherland", "to": "dale pollak"}, {"from": "eversheds sutherland", "to": "bjorn skaare"}, {"from": "dority manning pa", "to": "general electric"}, {"from": "dority manning pa", "to": "rheopave technologies llc"}, {"from": "dority manning pa", "to": "afl telecommunications llc"}, {"from": "dority manning pa", "to": "university of south carolina"}, {"from": "dority manning pa", "to": "soma access systems llc"}, {"from": "dority manning pa", "to": "ticona llc"}, {"from": "dority manning pa", "to": "google"}, {"from": "dority manning pa", "to": "avx corporation"}, {"from": "hanley flight zimmerman llc", "to": "general electric"}, {"from": "hanley flight zimmerman llc", "to": "the nielsen company us llc"}, {"from": "hanley flight zimmerman llc", "to": "fisher controls international llc"}, {"from": "hoffman warnick llc", "to": "general electric"}, {"from": "hoffman warnick llc", "to": "momentive performance materials inc"}, {"from": "the small patent law group llc", "to": "general electric"}, {"from": "the small patent law group llc", "to": "the boeing company"}, {"from": "ge power water", "to": "general electric"}, {"from": "general electric company global research", "to": "general electric"}, {"from": "ge global patent operation", "to": "general electric"}, {"from": "mcnees wallace nurick llc", "to": "general electric"}, {"from": "mcnees wallace nurick llc", "to": "loreal"}, {"from": "ge patent docket department 17851", "to": "general electric"}, {"from": "nixon vanderhye pc", "to": "general electric"}, {"from": "nixon vanderhye pc", "to": "knowmadics inc"}, {"from": "nixon vanderhye pc", "to": "resmed r d germany gmbh"}, {"from": "nixon vanderhye pc", "to": "denso corporation"}, {"from": "nixon vanderhye pc", "to": "arm ip limited"}, {"from": "nixon vanderhye pc", "to": "nintendo co ltd"}, {"from": "nixon vanderhye pc", "to": "paradigm inc"}, {"from": "nixon vanderhye pc", "to": "j\u00f8rgen hallundb\u00e6k"}, {"from": "nixon vanderhye pc", "to": "british telecommunications public limited company"}, {"from": "nixon vanderhye pc", "to": "crh medical corporation"}, {"from": "nixon vanderhye pc", "to": "software ag"}, {"from": "nixon vanderhye pc", "to": "resmed limited"}, {"from": "nixon vanderhye pc", "to": "dsm ip assets bv"}, {"from": "nixon vanderhye pc", "to": "georg steiger"}, {"from": "nixon vanderhye pc", "to": "nasdag technology ab"}, {"from": "nixon vanderhye pc", "to": "complete consent llc"}, {"from": "nixon vanderhye pc", "to": "gordon sterling starling"}, {"from": "nixon vanderhye pc", "to": "arm limited"}, {"from": "nixon vanderhye pc", "to": "jorn nystad"}, {"from": "nixon vanderhye pc", "to": "masao yui"}, {"from": "nixon vanderhye pc", "to": "takayuki ueno"}, {"from": "nixon vanderhye pc", "to": "james m cullen"}, {"from": "nixon vanderhye pc", "to": "yasushi matsubara"}, {"from": "nixon vanderhye pc", "to": "hiroshi matsunaga"}, {"from": "ge healthcare ip department", "to": "general electric"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
