@@ -1,15 +1,16 @@
 # Projects
 ---
-## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
-
-[<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
-
----
 
 ## [Deployed Document Classification App](https://lit-sea-88755.herokuapp.com/)
 ### Tech Stack: git, python, scikit-learn, css/html, flask, and heroku
 
-[<img width="400" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
+[<img width="150" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
+
+---
+
+## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
+
+[<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
 ---
 
