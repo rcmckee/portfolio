@@ -1,6 +1,6 @@
 # Projects and Discoveries
 ---
-## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618
+## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
 [<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
