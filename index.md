@@ -2,7 +2,7 @@
 ---
 
 ## [Deployed Document Classification App](https://lit-sea-88755.herokuapp.com/)
-### Tech Stack: git, python, scikit-learn, css/html, flask, and heroku
+### Tech Stack: SQL, BigQuery, Git, Python, Scikit-Learn, CSS/HTML, Flask, and Heroku
 
 [<img width="150" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
 
