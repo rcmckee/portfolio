@@ -1,6 +1,14 @@
 # Projects
 ---
 
+## [Read This For Me! App](https://read-this-for-me.herokuapp.com/)
+#### Tech Stack: API, Git, Python, CSS/HTML, Flask, Heroku, and Text Summarization
+##### Insert a url to an article and it will generate a short summary of the article. It is enough for you to pretend that you read the article if anyone asks.
+
+[<img width="150" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
+
+---
+
 ## [Deployed Document Classification App](https://lit-sea-88755.herokuapp.com/)
 #### Tech Stack: SQL, BigQuery, Git, Python, Scikit-Learn, CSS/HTML, Flask, Heroku, and Lime Visualization
 
