@@ -16,6 +16,13 @@
 
 ---
 
+
+## Dashboard for Analysis of Google's Top Inventors
+#### Tech Stack: SQL, BigQuery, and Data Studio
+
+<iframe src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="10" style="border:0" allowfullscreen></iframe>
+
+---
 ## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
 [<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
@@ -36,14 +43,6 @@
 
 [The apparatus of  claim  wherein the interpolation unit performs an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied
 The method of  claim  further comprising: performing an interpolation by applying a linear correction function to adjust an offset gain of the PLC digital output signal to which the nonlinear correction function is applied](https://colab.research.google.com/drive/1WG2itMOl97yZULr6PzDGe_irq55Q0QHE)
-
----
-
-
-## Dashboard for Analysis of Google Inventors
-#### BigQuery and Data Studio
-
-<iframe src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 
