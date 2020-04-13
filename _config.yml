@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.hackerrank.com/rmckee8">HackerRank</a>
   <br>
   <a href="https://www.linkedin.com/in/RobertCMcKee/">LinkedIn</a> 
+  <br>
+  <a href="https://medium.com/@robertmckee">Medium Blog</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
