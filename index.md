@@ -4,6 +4,8 @@
 ## MPEP Chatbot
 #### Tech Stack: Google Dialogflow, Datalab, Flask, and Python
 
+Try typing "what are the fees?" This is a work in progress.
+
 <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/55ae4878-1ac0-4877-8ea1-b8e06fb59ac6"></iframe>
 
 ---
