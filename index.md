@@ -10,6 +10,13 @@
 ---
 
 
+## Networkx Graph of GE Lawyers and Their Clients
+#### Tech Stack: SQL, BigQuery, Python, and NetworkX
+
+<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="10" style="border:0" allowfullscreen></iframe>
+---
+
+
 ## Dashboard for Analysis of Google's Top Inventors
 #### Tech Stack: SQL, BigQuery, and Data Studio
 
