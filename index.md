@@ -13,14 +13,14 @@
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
 
-<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="10" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="0" scrolling="no" style="border:0" allowfullscreen></iframe>
 ---
 
 
 ## Dashboard for Analysis of Google's Top Inventors
 #### Tech Stack: SQL, BigQuery, and Data Studio
 
-<iframe src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="10" style="border:0" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/10AVAc9GpY26ms-XOYAqm6geY7uxrLjDI/page/pW4s" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 ## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
