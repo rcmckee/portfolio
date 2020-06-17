@@ -13,7 +13,7 @@
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
 
-<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="0" scrolling="no" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="0"  style="border:0" allowfullscreen width="400" heigth="400"></iframe>
 ---
 
 
