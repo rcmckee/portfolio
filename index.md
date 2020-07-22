@@ -1,14 +1,14 @@
 # Projects
 ---
 
-
+### [>>Link to Medium Post: Collection of Useful Articles I Have Found Relating To Data Science<<](https://medium.com/@robertmckee/not-reinventing-the-wheel-c2586eef0792?source=friends_link&sk=f92b44523e9574d4b0c1daa5d469c599)
+---
 ## [Deployed Document Classification App](https://lit-sea-88755.herokuapp.com/)
 #### Tech Stack: SQL, BigQuery, Git, Python, Scikit-Learn, CSS/HTML, Flask, Heroku, and Lime Visualization
 
 [<img width="150" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
 
 ---
-
 
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
