@@ -1,13 +1,6 @@
 # Projects
 ---
 
-## [Deployed Document Classification App](https://lit-sea-88755.herokuapp.com/)
-#### Tech Stack: SQL, BigQuery, Git, Python, Scikit-Learn, CSS/HTML, Flask, Heroku, and Lime Visualization
-
-[<img width="150" src="/images/iphone-1422026_1280.png"/>](https://lit-sea-88755.herokuapp.com/)
-
----
-
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
 
