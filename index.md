@@ -5,7 +5,7 @@
 * [Web App](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
 * [Github Code Repository](https://github.com/rcmckee/classification_patent_streamlit_lime)
 
-[<img width="400" src="https://github.com/rcmckee/rcmckee.github.io/blob/master/images/streamlit-first_app-2020-11-05-11-11-81.gif"/>](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
+[<img width="400" src="https://github.com/rcmckee/rcmckee.github.io/blob/master/images/streamlit-first_app-2020-11-05-11-11-81.jpg"/>](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
 
 
 ---
