@@ -12,7 +12,7 @@
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
 
-<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="10"  style="border:0"  width="400" height="400" ></iframe>
+<iframe src="https://www.robertcmckee.com/graph_GE_lawyers_and_their_clients.html" frameborder="10"  style="border:0"  width="350" height="350" ></iframe>
 
 ---
 ## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
