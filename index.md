@@ -1,6 +1,11 @@
 # Projects
 ---
+## [Deployed Classifier](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
+#### Streamlit Share and LIME visualizer
+* [Web App](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
+* [Github Code Repository](https://github.com/rcmckee/classification_patent_streamlit_lime)
 
+---
 ## Networkx Graph of GE Lawyers and Their Clients
 #### Tech Stack: SQL, BigQuery, Python, and NetworkX
 
