@@ -5,7 +5,7 @@
 * [Web App](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
 * [Github Code Repository](https://github.com/rcmckee/classification_patent_streamlit_lime)
 
-[<img width="400" src="https://github.com/rcmckee/rcmckee.github.io/blob/master/images/streamlit-first_app-2020-11-05-11-11-81.jpg"/>](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
+[<img src="https://github.com/rcmckee/rcmckee.github.io/blob/master/images/streamlit-first_app-2020-11-05-11-11-81.png"/>](https://share.streamlit.io/rcmckee/classification_patent_streamlit_lime/first_app.py)
 
 
 ---
@@ -17,7 +17,7 @@
 ---
 ## [Statistical Analysis / Hypothesis Testing of Binary Data](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
-[<img width="400" src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
+[<img src="https://miro.medium.com/max/1872/1*t9woTxrRQL91VZp2wgO1Rg.png"/>](https://medium.com/@robertmckee/statistical-analysis-hypothesis-testing-of-binary-data-b0dce43306?source=friends_link&sk=df4006ba18f7103da9726d941b707618)
 
 ---
 
