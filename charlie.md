@@ -1,1 +1,1 @@
-<img src="images/MISSING PERSONPoster.pdf"/>
+![charlie missing person poster](images/MISSING\ PERSONPoster.pdf)
