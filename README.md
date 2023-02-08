@@ -37,7 +37,7 @@
 </a>
 
 </p>
-
+<!-- 
 * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
@@ -96,21 +96,16 @@
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
 </td></tr> </table>
-
-<details>
-<summary>📈 Stats</summary>
+ -->
+<!-- <details> -->
+<!-- <summary>📈 Stats</summary> -->
 <br>
+
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcmckee&theme=dracula)  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcmckee&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcmckee&theme=dracula)
 
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
-</details>
+<!-- </details> -->
