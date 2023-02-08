@@ -4,9 +4,9 @@
 </a>
 <br/>
 
-<a href="https://gkos.tech">
+<!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>  
+</a>   -->
 <!-- <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> -->  
