@@ -44,7 +44,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcmckee&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcmckee&theme=dracula) -->
     
-
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md-->
 
 ### 🖥️ Projects and Technologies
 <table>
@@ -52,6 +52,7 @@
 |Title | Technologies|
 |--|--|
 | [Tor Webcrawler (private)](https://github.com/bashguru/ransomwaregang_intel) | ![docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![torproject](https://img.shields.io/badge/Tor_Project-black?style=flat-square&logo=torproject) ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode) ![github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)|
+| [Autoscraper on .onion sites](https://github.com/rcmckee/autoscraper_tor) | ![torproject](https://img.shields.io/badge/Tor_Project-black?style=flat-square&logo=torproject) ![Autoscraper](https://img.shields.io/badge/AutoScraper-black?style=flat-square) ![Requests](https://img.shields.io/badge/Requests-black?style=flat-square) ![SOCKS5](https://img.shields.io/badge/SOCKS5-black?style=flat-square)|
 | [PvPCheck](https://github.com/rcmckee/pvpcheck) | ![PyPI](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=windowsterminal) ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
 | AI Model Deployment On AWS | ![flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![amazonec2](https://img.shields.io/badge/AWS_EC2-black?style=flat-square&logo=amazonec2) ![amazonelasticbeanstalk](https://img.shields.io/badge/AWS_Elastic_Beanstalk-black?style=flat-square&logo=amazon) ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github) ![FastText.cc](https://img.shields.io/badge/FastText-black?style=flat-square&logo=fasttext) |
 | Text Classification | ![flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![neo4j](https://img.shields.io/badge/Neo4j-black?style=flat-square&logo=neo4j) ![typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript) ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github) ![FastText.cc](https://img.shields.io/badge/FastText-black?style=flat-square&logo=fasttext) ![Microsoft API](https://img.shields.io/badge/API-black?style=flat-square&logo=microsoft)|
