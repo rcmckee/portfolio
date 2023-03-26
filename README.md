@@ -66,5 +66,5 @@
 
 | | |
 |--|--|
-| [Extract Emails By URL Domain](https://github.com/rcmckee/Task_based_code/blob/main/Extract_Emails_By_URL_Domain.ipynb) | |
+| [Extract Emails By URL Domain](https://github.com/rcmckee/Task_based_code/blob/main/Extract_Emails_By_URL_Domain.ipynb) | [Image Manipulation and Text OCR](https://github.com/rcmckee/image-manipulation-and-text-ocr) |
 </table>
