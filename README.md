@@ -38,8 +38,10 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcmckee&theme=dracula)  -->
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcmckee&theme=dracula" title="" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcmckee&theme=dracula" title="" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcmckee&theme=github_dark" title="" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcmckee&theme=github_dark" title="" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rcmckee&theme=github_dark" title="" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rcmckee&theme=github_dark&utcOffset=8" title="Productive Time (varies based on recent time zone move)" />
 </p>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcmckee&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcmckee&theme=dracula) -->
